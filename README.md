@@ -1,4 +1,4 @@
-# PROJECT -1 Gzip File Compression Utility 📦
+# Gzip File Compression Utility 📦
 
 A simple command-line utility written in Rust for compressing files using Gzip compression.
 
